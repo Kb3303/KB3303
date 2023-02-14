@@ -19,8 +19,11 @@ My name is Khalil Brown. I'm a college student studying Python and JavaScript. I
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Kb3303"><img src="https://github-readme-stats.vercel.app/api?username=Kb3303&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kb3303's GitHub stats" /></a>
+
 <a href="http://www.github.com/Kb3303"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kb3303&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="https://github.com/Kb3303" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kb3303&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/kb3303"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
