@@ -1,7 +1,7 @@
 
 ### Bio
 
-My name is Khalil Brown. I'm a college student studying Python and JavaScript. I'm passionate about coding and am always looking for new opportunities to hone my skills and gain more experience in the field. I'm a quick learner and I enjoy using my knowledge to solve complex problems. I'm eager to take on new challenges and am excited to see what the future holds.  
+My name is Khalil Brown. I'm a college student studying Python and JavaScript. I'm passionate about coding and am always looking for new opportunities to hone my skills and gain more experience in the field. I'm a quick learner and I enjoy using my knowledge to solve complex problems. I'm eager to take on new challenges and I am excited to see what the future holds.  
 
 * 🌍  I'm based in Atlanta, Georgia 
 * ✉️  You can contact me at [Khalil.brown45@icloud.com](mailto:Khalil.brown45@icloud.com) 
